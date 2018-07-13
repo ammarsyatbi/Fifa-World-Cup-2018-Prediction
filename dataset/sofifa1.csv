@@ -1,0 +1,53 @@
+datestats,countrystats,overall,attack,midfield,defense,bu_speed,bu_passing,bu_positioning,cc_crossing,cc_passing,cc_shooting,cc_positioning,aggression,pressure,avg_age
+5/17/2018,Spain,86,84,86,86,32,28,Organised,32,27,20,Free Form,62,75,27.04
+5/17/2018,Brazil,85,86,83,85,51,50,Organised,33,39,67,Organised,73,76,27.09
+5/17/2018,Belgium,85,86,84,85,36,36,Organised,66,36,56,Free Form,66,75,26.83
+5/17/2018,Germany,85,81,85,84,28,34,Organised,40,20,26,Free Form,60,66,25.52
+5/17/2018,France,84,83,85,82,35,30,Organised,53,24,35,Organised,47,47,25.65
+5/17/2018,Portugal,83,85,82,80,51,50,Organised,58,54,62,Free Form,58,66,27.22
+5/17/2018,Italy,83,85,81,85,73,67,Organised,80,64,78,Organised,33,29,26.04
+5/17/2018,Argentina,82,87,81,80,36,40,Organised,36,36,36,Free Form,66,76,27.39
+5/17/2018,England,82,84,81,81,49,52,Organised,41,55,49,Organised,55,43,24.65
+5/17/2018,Uruguay,81,86,76,79,51,49,Organised,43,67,61,Organised,67,44,26.78
+5/17/2018,Netherlands,80,79,80,80,51,51,Organised,48,42,63,Free Form,42,46,24.65
+5/17/2018,Colombia,79,81,77,78,68,66,Organised,45,71,73,Organised,41,48,26.57
+5/17/2018,Poland,78,82,75,79,49,52,Free Form,56,52,34,Free Form,32,46,26.91
+5/17/2018,Russia,78,80,78,76,50,49,Organised,37,63,46,Organised,63,44,27.35
+5/17/2018,Switzerland,78,74,78,77,53,53,Organised,55,59,60,Organised,59,46,26.48
+5/17/2018,Denmark,78,75,77,77,50,53,Organised,42,68,45,Organised,46,60,26.04
+5/17/2018,Mexico,78,79,79,76,53,53,Organised,60,56,70,Free Form,60,68,27.35
+5/17/2018,Turkey,77,78,77,75,37,37,Organised,62,32,52,Organised,62,66,25.13
+5/17/2018,Chile,77,77,80,75,40,38,Organised,45,35,45,Organised,55,68,26.26
+5/17/2018,Austria,77,80,77,75,40,39,Organised,40,40,40,Organised,70,66,24.74
+5/17/2018,Sweden,76,76,75,76,53,52,Organised,55,59,54,Organised,55,66,26.65
+5/17/2018,Greece,76,78,74,77,71,67,Organised,71,71,71,Organised,28,25,26.04
+5/17/2018,Ivory Coast,76,75,77,77,70,72,Organised,65,69,79,Organised,75,60,24.96
+5/17/2018,Ireland,75,75,74,75,53,50,Organised,35,31,67,Organised,55,67,26.52
+5/17/2018,Czech Republic,75,75,74,73,68,71,Organised,41,75,62,Organised,71,75,24.83
+5/17/2018,Slovenia,75,72,76,72,36,37,Organised,46,36,46,Organised,66,74,25.96
+5/17/2018,USA,75,76,75,74,52,51,Organised,34,70,58,Organised,70,48,25.48
+5/17/2018,Paraguay,74,75,74,73,50,50,Organised,62,36,57,Organised,54,59,27
+5/17/2018,Norway,74,74,73,73,72,70,Organised,55,79,61,Organised,49,46,24.7
+5/17/2018,Wales,74,82,71,77,72,68,Organised,49,63,67,Organised,53,44,25.78
+5/17/2018,Scotland,74,75,74,74,53,50,Organised,45,49,47,Organised,49,44,25.83
+5/17/2018,Venezuela,73,77,72,70,71,68,Organised,52,62,62,Organised,34,26,23.91
+5/17/2018,Australia,73,69,73,71,36,36,Organised,46,36,46,Organised,76,58,26.48
+5/17/2018,Saudi Arabia,73,73,73,73,69,66,Organised,48,72,73,Organised,42,44,28.17
+5/17/2018,Peru,72,73,72,71,53,49,Organised,80,46,56,Organised,70,66,25.43
+5/17/2018,Romania,72,72,72,70,55,50,Organised,65,45,35,Organised,45,40,26.04
+5/17/2018,Egypt,72,70,74,71,52,49,Organised,64,58,31,Organised,58,44,27.43
+5/17/2018,Ecuador,72,68,71,72,51,53,Organised,78,32,70,Organised,50,58,25.83
+5/17/2018,Cameroon,72,77,74,69,39,39,Organised,54,34,54,Organised,64,60,24.78
+5/17/2018,Iceland,72,73,74,69,49,52,Organised,56,70,44,Organised,70,43,27.78
+5/17/2018,Northern Ireland,71,71,71,71,53,53,Organised,35,39,65,Organised,39,46,27.09
+5/17/2018,Hungary,71,73,69,71,71,66,Organised,58,62,69,Organised,52,43,26.57
+5/17/2018,South Africa,71,72,70,70,38,39,Organised,68,38,58,Organised,40,27,24.35
+5/17/2018,Bulgaria,70,70,69,67,49,50,Organised,41,55,47,Organised,55,44,27.09
+5/17/2018,Finland,70,71,69,66,49,51,Organised,46,52,68,Organised,30,25,25.26
+5/17/2018,China,70,70,70,70,51,50,Organised,68,54,57,Organised,54,49,28.04
+5/17/2018,Canada,69,70,71,66,68,71,Organised,70,50,70,Organised,24,29,26.26
+5/17/2018,New Zealand,68,69,66,67,69,70,Organised,40,76,69,Organised,80,74,24.48
+5/17/2018,Bolivia,67,69,67,66,50,53,Organised,72,46,70,Organised,46,44,27.26
+5/17/2018,India,60,63,58,58,50,50,Organised,47,31,37,Organised,31,48,26.04
+2/22/2011,South Korea,70,70,68,66,72,54,Organised,28,53,55,Organised,50,44,23.33
+2/22/2012,Croatia,78,78,78,74,59,44,Organised,74,39,61,Organised,61,61,26.64
